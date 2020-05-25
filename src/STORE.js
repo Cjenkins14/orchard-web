@@ -4,37 +4,25 @@ const fruits = {
         type: 'peach',
         variety: 'Red Globe',
         image: 'imagelink',
-        description: 'red'
-    },
-    {
-        type: 'peach',
-        variety: 'Ranger',
-        image: 'imagelink',
-        description: 'red'
-    },
-    {
-        type: 'peach',
-        variety: 'Loring',
-        image: 'imagelink',
-        description: 'red'
+        description: 'freestone'
     },
     {
         type: 'peach',
         variety: 'Regal',
         image: 'imagelink',
-        description: 'red'
+        description: 'cling peach'
     },
     {
         type: 'peach',
         variety: 'Big',
         image: 'imagelink',
-        description: 'red'
+        description: 'freestone'
     },
     {
         type: 'peach',
         variety: 'Lucky 13',
         image: 'imagelink',
-        description: 'red'
+        description: 'freestone'
     }
     ],
     Blackberry: [
@@ -42,13 +30,13 @@ const fruits = {
         type: 'Blackberry',
         variety: 'Apache',
         image: 'imagelink',
-        description: 'blue'
+        description: 'large'
     },
     {
         type: 'Blackberry',
         variety: 'Double',
         image: 'imagelink',
-        description: 'red'
+        description: 'second harvest in the fall'
     },
     ],
     Plum: [
@@ -56,13 +44,13 @@ const fruits = {
         type: 'Plum',
         variety: 'Ruby Red',
         image: 'imagelink',
-        description: 'red'
+        description: 'Red meat plums'
     },
     {
         type: 'Plum',
         variety: 'Ozark',
         image: 'imagelink',
-        description: 'red'
+        description: 'Yellow meat plums'
     },
 ]
 }

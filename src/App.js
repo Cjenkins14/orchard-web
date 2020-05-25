@@ -4,7 +4,8 @@ import Home from './Home/Home'
 import Fruits from './Fruits/Fruits'
 import Purchase from './Purchase/Purchase'
 import Contact from './Contact/Contact'
-import { Route } from 'react-router';
+import Payment from './Payment/Payment'
+import { Route } from 'react-router-dom';
 
 class App extends Component {
   constructor(props) {
@@ -27,6 +28,9 @@ class App extends Component {
     <Route 
     exact path='/contact'
     component={Contact} />
+    <Route 
+    exact path='/payment'
+    component={Payment} />
     </div>
     )
 };
